@@ -9,3 +9,5 @@
  git pull
 #клониврование репозитория
  git clone https://github.com/DimanGithub/ASTR738.git  клонирует содержание репозитория в выбранную папку https://github.com/DimanGithub/ASTR738.git- путь репозитория
+ 
+ # руководство по оформлению readme.md https://gist.github.com/Jekins/2bf2d0638163f1294637
