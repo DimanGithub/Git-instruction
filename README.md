@@ -8,4 +8,4 @@
 # прочитать из репозитория
  git pull
 #клониврование репозитория
- git clone 
+ git clone https://github.com/DimanGithub/ASTR738.git  клонирует содержание репозитория в выбранную папку https://github.com/DimanGithub/ASTR738.git- путь репозитория
